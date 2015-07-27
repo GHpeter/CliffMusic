@@ -1,4 +1,4 @@
-package cliffmusic.com.cliff.cliffmusic;
+package cliffmusic.com.cliff.activity;
 
 import android.support.v7.app.ActionBarActivity;
 import android.os.Bundle;

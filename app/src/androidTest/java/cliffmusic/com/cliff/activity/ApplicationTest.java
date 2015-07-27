@@ -1,4 +1,4 @@
-package cliffmusic.com.cliff.cliffmusic;
+package cliffmusic.com.cliff.activity;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
